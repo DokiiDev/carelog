@@ -28,4 +28,7 @@ CareLog is an Android app focused on tracking daily habits and wellbeing trends 
 2. Open the project in Android Studio
 3. Run the app on an emulator or a physical device
 
+## Screenshots
+![Welcome_page](screenshots/Welcome_page.png)
+![Create_acc](screenshots/Create_acc.png)
    
