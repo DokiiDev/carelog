@@ -1,31 +1,31 @@
 # CareLog
 
-CareLog je Android aplikacija za praćenje navika i trendova kod starijih ljudi – uključuje podsjetnike za tablete, bilježenje dnevnih ponašanja te jednostavan pregled unosa kroz vrijeme.
+CareLog is an Android app focused on tracking daily habits and wellbeing trends for elderly people. It’s designed for simple daily logging (e.g., behaviors/notes), medication reminders, and an easy overview of entries over time.
 
 ## Status
 🚧 Work in progress
 
-## Trenutno implementirano
-- Osnovni UI (welcome / login / create account)
-- Navigacija između ekrana (osnovna struktura aplikacije)
+## Implemented so far
+- Basic UI (welcome / login / create account)
+- Basic navigation structure between screens
 
-## Planirane funkcionalnosti
-- Podsjetnici za lijekove (notifikacije)
-- Dnevni unos ponašanja / bilješki
-- Pregled trendova (npr. tjedni/mjesečni pregled)
-- Pohrana i sinkronizacija podataka putem Firebase-a
+## Planned features
+- Medication reminders (notifications)
+- Daily logging (behaviors / notes)
+- Trend overview (weekly / monthly)
+- Cloud data storage & sync using Firebase
 
 ## Tech stack
 - Kotlin
 - Android Studio
 - Jetpack Compose (UI)
-- Firebase (Auth + baza podataka)
+- Firebase (Authentication + database)
 
-## Kako pokrenuti projekt
-1. Kloniraj repozitorij:
+## Getting started
+1. Clone the repository:
    ```bash
    git clone https://github.com/DokiiDev/carelog.git
-2. Otvori projekt u Android Studio-u
-3. Klikni Run (na emulatoru ili fizičkom uređaju)
+2. Open the project in Android Studio
+3. Run the app on an emulator or a physical device
 
    
