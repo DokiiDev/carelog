@@ -221,7 +221,6 @@ fun CreateAccountScreen(
                         .height(56.dp),
                     colors = ButtonDefaults.buttonColors(containerColor = teal),
                     shape = RoundedCornerShape(22.dp),
-                    enabled = agreeState.value
                 ) {
                     Text("Create account", fontSize = 15.sp, fontWeight = FontWeight.ExtraBold, color = Color.White)
                 }
