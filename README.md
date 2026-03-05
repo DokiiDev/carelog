@@ -6,7 +6,7 @@ CareLog is an Android app focused on tracking daily habits and wellbeing trends 
 🚧 Work in progress
 
 ## Implemented so far
-- Basic UI (welcome / login / create account)
+- Basic UI (welcome / login / create account / setup flow)
 - Basic navigation structure between screens
 
 ## Planned features
